@@ -1,0 +1,22 @@
+/* Colours */
+
+* {
+   background-color: #0088dd;
+   color: white;
+}
+
+/* Text */
+
+* {
+   font-family: "Arial";
+   font-size: 17px;
+}
+
+h2, h3 {
+	font-size: 20px;
+}
+
+figure {
+	font-weight: bold;
+	font-style: Oblique;
+}
